@@ -1,6 +1,6 @@
 ---
 
-# 🤖 ARC Chatbot (Python Voice Assistant)
+# 🤖 ARC Chatbot
 
 A simple Python-based AI chatbot with **text + voice interaction**. It allows users to chat in the terminal, and the bot responds using both **text output and speech**. Perfect for beginners exploring AI and voice assistants.
 
