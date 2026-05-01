@@ -45,7 +45,7 @@ pip install pyttsx3
 ### 2️⃣ Clone the project:
 
 ```bash
-git clone https://github.com/codertheashish/ARC_Chatbot.git
+https://github.com/codertheashish/ARC-Chatbot
 ```
 
 ### 3️⃣ Navigate to project folder:
@@ -61,7 +61,7 @@ cd ARC_Chatbot
 Run the script:
 
 ```bash
-python chatbot.py
+python arc_chatbot.py
 ```
 
 You will see:
@@ -103,6 +103,3 @@ Chatbot: Joke: Why do not programmers like nature? It has too many bugs.
 **Ashish Kumar Prajapati**
 
 ---
-rsion (Tkinter)**
-* Improve chatbot with **AI (like ChatGPT API)**
-* Convert this into a **voice assist
