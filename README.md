@@ -96,3 +96,4 @@ Chatbot: Joke: Why do not programmers like nature? It has too many bugs.
 **Ashish Kumar Prajapati**
 
 ---
+<img width="688" height="491" alt="Arc_chatbot" src="https://github.com/user-attachments/assets/f9a9c5cf-e139-43ca-babb-1cec57f32ec8" />
